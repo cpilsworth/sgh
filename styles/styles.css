@@ -14,9 +14,9 @@
   /* colors */
   --background-color: white;
   --light-color: #f8f8f8;
-  --dark-color: #505050;
+  --dark-color: hsl(28.47deg 83.1% 58.24%);
   --text-color: #131313;
-  --link-color: #3b63fb;
+  --link-color: hsl(28.47deg 83.1% 58.24%);
   --link-hover-color: #1d3ecf;
 
   /* fonts */
